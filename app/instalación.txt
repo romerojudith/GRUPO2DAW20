@@ -1,0 +1,9 @@
+-Para crear la base de datos nos vamos al cdmon>mysql>nueva base de datos
+-En los comandos ssh hice lo siguiente
+-cd .. (para retroceder hasta la raiz)
+-cd web (nos metemos dentro de la carpeta)
+-mkdir (creamos la carpeta ali2020)
+-cd ali2020
+-git init
+-git remote add conexion ruta de la carpeta de github
+-git -c http.sslVerify=false pull conexion master
