@@ -1,0 +1,20 @@
+El primer inegrante  "Judith"
+ha creado la carpeta del proyecto en git hub , y sube los archivos mediante los comando de git 
+
+El segundo integrante  "Gonzalo"
+ha creado la base de datos y presentara el proyecto
+
+El tercer integrante "Salvador"
+ha echo un get init del proyecto y a añadido sus tres archivos, el cual a echo un comentario base de todo sus archivos por sueguridad y
+los ha subido al git hub  al proyecto compartido
+
+
+Valoraciones de la experiencia:
+
+Gonzalo:"Mi opinión sobre el trabajo que ha sido facil pero he aprendido a 
+	manejar el github ya que no lo conocía y a trabajar en equipo que es muy importante."
+Salvador: "Mi opinion sobre el proyecto es que a sido sencillo, pero nos a mostrado 
+	  como se trabaja en una empresa y la importancia del trabajo en equipo y la organización"
+Judith: "Me ha parecido una práctica sencilla y muy agradable ya que desde el momento "uno", 
+	hemos hablado y nos hemos coordinado. Pienso que en el sector de la informática es muy importante aprender a llevar 
+	proyectos junto a compañeros ya que el día de mañana en una empresa, formarás parte de un proyecto."
