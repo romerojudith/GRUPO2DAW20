@@ -1,0 +1,12 @@
+Primer dia
+Judith crea la carpeta del proyecto en github y subes sus archivos de git correspondientes
+Segundo dia 
+Judith nos invita a la carpeta dandonos acceso , Gonzalo crea la base de datos y sube los archivos.
+Salvador  hace un el get init correspondiente como sus compañeros y sube los archivos correspondiente a github,
+Gonzalo accede a cdmon por ssh y descarga el proyeco , cambia los datos de acceso a la base de dato  y terminaria
+
+
+
+
+
+
