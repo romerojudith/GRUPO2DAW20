@@ -1,14 +1,3 @@
-El primer inegrante  "Judith"
-ha creado la carpeta del proyecto en git hub , y sube los archivos mediante los comando de git 
-
-El segundo integrante  "Gonzalo"
-ha creado la base de datos y presentara el proyecto
-
-El tercer integrante "Salvador"
-ha echo un get init del proyecto y a añadido sus tres archivos, el cual a echo un comentario base de todo sus archivos por sueguridad y
-los ha subido al git hub  al proyecto compartido
-
-
 Valoraciones de la experiencia:
 
 Gonzalo:"Mi opinión sobre el trabajo que ha sido facil pero he aprendido a 
